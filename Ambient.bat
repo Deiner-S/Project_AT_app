@@ -1,7 +1,7 @@
 @echo off
 REM Configurando ambiente temporário do Node
 
-set NODE_HOME=C:\Users\deiner.souza\Documents\react_native\node-v24.11.0-win-x64
+set NODE_HOME=C:\Users\deiner.souza\Documents\nodejs\node-v24.11.0-win-x64
 
 REM Adiciona Node e npm ao PATH da sessão
 set PATH=%NODE_HOME%;%NODE_HOME%\node_modules\npm\bin;%PATH%
